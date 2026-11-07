@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I am Hendrik
+# Hey, I am Hendrik
 
 ### Self-hosting • Repair • Systems • AI tinkering
 
